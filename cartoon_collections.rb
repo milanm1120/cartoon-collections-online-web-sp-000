@@ -27,5 +27,5 @@ def find_the_cheese(cheese)
   end
 end
 
-roll_call_dwarves(["Doc", "Dopey", "Bashful", "Grumpy"])
-summon_captain_planet(["earth", "wind", "fire", "water", "heart"])
+# roll_call_dwarves(["Doc", "Dopey", "Bashful", "Grumpy"])
+# summon_captain_planet(["earth", "wind", "fire", "water", "heart"])
